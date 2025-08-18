@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Input/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Input/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luennot.iml" filepath="$PROJECT_DIR$/Luennot.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module1/Module1.iml" filepath="$PROJECT_DIR$/Module1/Module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Muuttujat/Muuttujat.iml" filepath="$PROJECT_DIR$/Muuttujat/Muuttujat.iml" />
     </modules>
   </component>
 </project>
