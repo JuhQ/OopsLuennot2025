@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Input/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Input/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constant/Constant.iml" filepath="$PROJECT_DIR$/Constant/Constant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" filepath="$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" />
       <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luennot.iml" filepath="$PROJECT_DIR$/Luennot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module1/Module1.iml" filepath="$PROJECT_DIR$/Module1/Module1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Muuttujat/Muuttujat.iml" filepath="$PROJECT_DIR$/Muuttujat/Muuttujat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Printf/Printf.iml" filepath="$PROJECT_DIR$/Printf/Printf.iml" />
     </modules>
   </component>
 </project>
