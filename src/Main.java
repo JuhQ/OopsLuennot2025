@@ -5,5 +5,7 @@ public class Main {
 
     public void helloLuokka() {
         System.out.println("hello");
+
+        System.out.println("testailua");
     }
 }
