@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/25.8.2025/25.8.2025.iml" filepath="$PROJECT_DIR$/25.8.2025/25.8.2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25.8.2025.Engine/25.8.2025.Engine.iml" filepath="$PROJECT_DIR$/25.8.2025.Engine/25.8.2025.Engine.iml" />
       <module fileurl="file://$PROJECT_DIR$/25.8.2025.Library/25.8.2025.Library.iml" filepath="$PROJECT_DIR$/25.8.2025.Library/25.8.2025.Library.iml" />
       <module fileurl="file://$PROJECT_DIR$/Input/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Input/Arithmetic/Arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constant/Constant.iml" filepath="$PROJECT_DIR$/Constant/Constant.iml" />
