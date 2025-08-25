@@ -30,7 +30,7 @@ public class Main {
         Person omistaja = new Person();
         omistaja.nimi = "Matti";
 
-        Bicycle pyörä = new Bicycle(omistaja, "Tunturi", 24);
+        Bicycle pyörä = new Bicycle(omistaja, "Tunturi", 24, "ring ring");
         pyörä.drive();
 
         Person ostaja = new Person();
@@ -39,6 +39,11 @@ public class Main {
         pyörä.vaihdaOmistaja(ostaja);
 
         pyörä.drive();
+
+        Bicycle bike = new Bicycle(ostaja, "Helkama", 24, "ping pong");
+
+        omistaja.drive(bike, 10);
+        omistaja.drive(pyörä, 10);
 
     }
 }

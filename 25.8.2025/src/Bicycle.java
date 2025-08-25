@@ -2,11 +2,13 @@ public class Bicycle {
     private Person owner;
     private String model;
     private int gears;
+    private String sound;
 
-    public Bicycle(Person omistaja, String model, int gears) {
+    public Bicycle(Person omistaja, String model, int gears, String sound) {
         this.owner = omistaja;
         this.model = model;
         this.gears = gears;
+        this.sound = sound;
     }
 
     public void drive() {
@@ -18,4 +20,7 @@ public class Bicycle {
         this.owner = uusiOmistaja;
     }
 
+    public String getSound() {
+        return this.sound;
+    }
 }
