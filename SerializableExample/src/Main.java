@@ -66,5 +66,35 @@ public class Main {
 
         System.out.println(person);
 
+        person = new Person("Matti", "Meikalainen", 50);
+        System.out.println(person);
+
+        try(
+                FileOutputStream outputStream = new FileOutputStream(FILENAME);
+                ObjectOutputStream objects = new ObjectOutputStream(outputStream);
+        ) {
+            objects.writeObject(person);
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+
+        System.out.println("Lopuksi tallennetaan uusi person objekti levylle");
+
+
+        person = null;
+        System.out.println(person);
+
+        try (
+                FileInputStream inputStream = new FileInputStream(FILENAME);
+                ObjectInputStream objects = new ObjectInputStream(inputStream);
+        ) {
+            person = (Person) objects.readObject();
+            System.out.println("luetaan levylle tallennettu person objekti");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
     }
 }

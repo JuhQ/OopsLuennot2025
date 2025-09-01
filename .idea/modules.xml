@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Input/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Input/Arithmetic/Arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayBoundException/ArrayBoundException.iml" filepath="$PROJECT_DIR$/ArrayBoundException/ArrayBoundException.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constant/Constant.iml" filepath="$PROJECT_DIR$/Constant/Constant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopilotSeikkailut/CopilotSeikkailut.iml" filepath="$PROJECT_DIR$/CopilotSeikkailut/CopilotSeikkailut.iml" />
       <module fileurl="file://$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" filepath="$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileExceptionExample/FileExceptionExample.iml" filepath="$PROJECT_DIR$/FileExceptionExample/FileExceptionExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
