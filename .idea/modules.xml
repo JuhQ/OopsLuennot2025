@@ -6,15 +6,19 @@
       <module fileurl="file://$PROJECT_DIR$/25.8.2025.Engine/25.8.2025.Engine.iml" filepath="$PROJECT_DIR$/25.8.2025.Engine/25.8.2025.Engine.iml" />
       <module fileurl="file://$PROJECT_DIR$/25.8.2025.Library/25.8.2025.Library.iml" filepath="$PROJECT_DIR$/25.8.2025.Library/25.8.2025.Library.iml" />
       <module fileurl="file://$PROJECT_DIR$/Input/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Input/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayBoundException/ArrayBoundException.iml" filepath="$PROJECT_DIR$/ArrayBoundException/ArrayBoundException.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constant/Constant.iml" filepath="$PROJECT_DIR$/Constant/Constant.iml" />
       <module fileurl="file://$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" filepath="$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileExceptionExample/FileExceptionExample.iml" filepath="$PROJECT_DIR$/FileExceptionExample/FileExceptionExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luennot.iml" filepath="$PROJECT_DIR$/Luennot.iml" />
       <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module1/Module1.iml" filepath="$PROJECT_DIR$/Module1/Module1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Muuttujat/Muuttujat.iml" filepath="$PROJECT_DIR$/Muuttujat/Muuttujat.iml" />
       <module fileurl="file://$PROJECT_DIR$/Printf/Printf.iml" filepath="$PROJECT_DIR$/Printf/Printf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SerializableExample/SerializableExample.iml" filepath="$PROJECT_DIR$/SerializableExample/SerializableExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task1.2.2/Task1.2.2.iml" filepath="$PROJECT_DIR$/Task1.2.2/Task1.2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URLStreamExample/URLStreamExample.iml" filepath="$PROJECT_DIR$/URLStreamExample/URLStreamExample.iml" />
     </modules>
   </component>
 </project>
